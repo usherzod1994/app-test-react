@@ -1,0 +1,14 @@
+@import "./icon/icons.scss";
+@import "./routesObservers/home/home.scss";
+@import "./routesObservers/post/post.scss";
+
+.wrapper{
+  display: flex;
+  text-align: left;
+  width: 1286px;
+  font-size: 12px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px;
+}

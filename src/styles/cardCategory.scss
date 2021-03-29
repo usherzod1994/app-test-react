@@ -1,0 +1,46 @@
+@import "./icon/icons.scss";
+
+%shadow-strong {
+  box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+  -moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+  -o-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+}
+
+%shadow {
+  box-shadow: 0 0 15px rgba(0, 0, 0, .125);
+  -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, .125);
+  -moz-box-shadow: 0 0 15px rgba(0, 0, 0, .125);
+  -o-box-shadow: 0 0 15px rgba(0, 0, 0, .125);
+}
+
+.card-category{
+  text-align: center;
+  .card-img{
+    width: 100px;
+    height: 100px;
+  }
+  h5{
+    margin-top: 5px;
+  }
+  border-radius: 10px!important;
+  @extend %shadow;
+}
+
+.card-category-btn{
+  text-align: center;
+  .icon{
+    width: 110px;
+    height: 110px;
+    background-color: #ffffff;
+  }
+  b{
+    margin-top: 10px;
+    margin-bottom: 16px;
+  }
+  border-radius: 10px!important;
+  background-color: #34495E!important;
+  padding-bottom: 10px;
+  cursor: pointer;
+  @extend %shadow-strong;
+}

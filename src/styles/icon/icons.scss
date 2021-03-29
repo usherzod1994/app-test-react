@@ -1,0 +1,119 @@
+
+.icon{
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  background-color: #4f4f4f;
+  mask: {
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+}
+
+.icon-user{
+  mask-image: url("../../assets/images/icons/user.png");
+  -webkit-mask-image: url("../../assets/images/icons/user.png");
+}
+.icon-lock{
+  mask-image: url("../../assets/images/icons/lock.svg");
+  -webkit-mask-image: url("../../assets/images/icons/lock.svg");
+}
+.icon-unlock{
+  mask-image: url("../../assets/images/icons/unlock.svg");
+  -webkit-mask-image: url("../../assets/images/icons/unlock.svg");
+}
+//.icon-lock{
+//  mask-image: url("../../assets/images/icons/lock.png");
+//  -webkit-mask-image: url("../../assets/images/icons/lock.png");
+//}
+.icon-number-key1{
+  mask-image: url("../../assets/images/icons/numberKey.png");
+  -webkit-mask-image: url("../../assets/images/icons/numberKey.png");
+}
+.icon-number-key2{
+  mask-image: url("../../assets/images/icons/numberKey2.png");
+  -webkit-mask-image: url("../../assets/images/icons/numberKey2.png");
+}
+
+.icon-upload{
+  mask-image: url("../../assets/images/icons/plus.svg");
+  -webkit-mask-image: url("../../assets/images/icons/plus.svg");
+}
+
+.icon-eye{
+  mask-image: url("../../assets/images/icons/eye.svg");
+  -webkit-mask-image: url("../../assets/images/icons/eye.svg");
+}
+
+.icon-trash{
+  mask-image: url("../../assets/images/icons/trash.svg");
+  -webkit-mask-image: url("../../assets/images/icons/trash.svg");
+}
+.icon-user-header{
+  mask-image: url("../../assets/images/icons/icons/user.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/user.png");
+}
+
+.icon-like-header{
+  mask-image: url("../../assets/images/icons/icons/like.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/like.png");
+}
+.icon-chevron-down{
+  mask-image: url("../../assets/images/icons/icons/chevron-down.svg");
+  -webkit-mask-image: url("../../assets/images/icons/icons/chevron-down.svg");
+}
+.icon-right-arrow{
+  mask-image: url("../../assets/images/icons/icons/right-arrow.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/right-arrow.png");
+}
+.icon-chevron-right{
+  mask-image: url("../../assets/images/icons/icons/chevron-right.svg");
+  -webkit-mask-image: url("../../assets/images/icons/icons/chevron-right.svg");
+}
+.icon-chevron-left{
+  mask-image: url("../../assets/images/icons/icons/left-chevron.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/left-chevron.png");
+}
+.icon-chevron-up{
+  mask-image: url("../../assets/images/icons/icons/up-arrow.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/up-arrow.png");
+}
+.icon-search{
+  mask-image: url("../../assets/images/icons/icons/loupe.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/loupe.png");
+}
+.icon-maps{
+  mask-image: url("../../assets/images/icons/icons/placeholder.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/placeholder.png");
+}
+.icon-cancel{
+  mask-image: url("../../assets/images/icons/icons/cancel.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/cancel.png");
+}
+.icon-olx{
+  mask-image: url("../../assets/images/icons/icons/olx.svg");
+  -webkit-mask-image: url("../../assets/images/icons/icons/olx.svg");
+}
+.icon-chat{
+  mask-image: url("../../assets/images/icons/icons/chat.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/chat.png");
+}
+.icon-cancel1{
+  mask-image: url("../../assets/images/icons/icons/cancel1.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/cancel1.png");
+}
+.icon-down-arrow{
+  mask-image: url("../../assets/images/icons/icons/down-arrow.png");
+  -webkit-mask-image: url("../../assets/images/icons/icons/down-arrow.png");
+}
+.icon-check{
+  mask-image: url("../../assets/images/icons/check.png");
+  -webkit-mask-image: url("../../assets/images/icons/check.png");
+}
